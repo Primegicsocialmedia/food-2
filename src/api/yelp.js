@@ -4,7 +4,7 @@ export default axios.create({
   baseURL: "https://api.yelp.com/v3/businesses",
   headers: {
     Authorization:
-      "Bearer GyDhAeLE5wC7Pppmq_2gemKJiqtnN4Wwj3vJKk74skzUsiZh19GProVSJ6QWX9I3S6p5E-UtTEyW-3dk8UOAVdITb-vjgmIKG40rFEhdoqVnB3Pn_zJt0Wb0iEWQZnYx",
+      "Bearer Jw0oIMgpId1HV8x-mogAapr36SVRDSAM00qOEvAmLyxCaOV1I0T6kzJbSvazjA6Q7sNS46uHfHzRzLLAESkHYv3ES50h-sUQwtwvh836OsN-D5UwO6ObMswyxDM6YXYx",
   },
 });
 
